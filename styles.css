@@ -54,3 +54,13 @@ button#botaoNAO {
     display: block; /* Garante que a imagem seja exibida como um bloco */
     margin: 0 auto 20px; /* Centralize a imagem horizontalmente e adicione um espaço abaixo */
 }
+
+/* Adiciona regras de mídia queries para tornar o site responsivo */
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 18px; /* Reduz o tamanho da fonte para telas menores */
+    }
+    button {
+        font-size: 14px; /* Reduz o tamanho da fonte dos botões para telas menores */
+    }
+}
