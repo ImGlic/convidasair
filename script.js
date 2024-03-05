@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 function enviarMensagem() {
     // Número de telefone e mensagem predefinida
-    var numeroTelefone = "5521983117222";
+    var numeroTelefone = "5521989490332";
     var mensagem = "Olá! Estou interessado em fazer cardio em casa.";
 
     // Abre o WhatsApp com o número e mensagem predefinidos
